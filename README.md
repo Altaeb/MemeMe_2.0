@@ -34,11 +34,6 @@ When the user presses the “Cancel” button, the Meme Editor View returns to i
 
 When the user presses the share button, Apple’s stock Activity View appears, displaying several options for sharing the meme. After an option is chosen, the Activity View is dismissed and the Meme Editor View is visible again. 
 
-## Extra Credits
-
-- Pop Animation on the two  Caption Text Views on Orientation Change.
-- Ability to choose between number of font styles Apple provides.
-
 ## Requirements
 
  - Xcode 11
